@@ -14,7 +14,7 @@
 
 4. Напишите формулу выражающую теорему Гаусса для вектора напряженности магнитного поля в интегральной форме
 
-![alt text](https://lh3.googleusercontent.com/proxy/ZffrqtPAh1tkDHd-yIbVWazJpiOfwHb81kbduYB4w6Q-lVpjJXQEuUVyu3fHogtPjl_BbNwcD1elRKg76vtz2zGcG3J98r0 "Бла Бла Бла")
+![alt text](https://studfile.net/html/2706/58/html_mq6kEDyceK.Jtqq/img-sarjcQ.png "Бла Бла Бла")
 
 5. Напишите формулу выражающую магнитный момент контура с током в магнитном поле
 
